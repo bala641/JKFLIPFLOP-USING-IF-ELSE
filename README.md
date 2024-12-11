@@ -38,7 +38,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
- Developed by:THIRUKUMARAN G RegisterNumber:212223050056
+ Developed by:BALA B Ref Num: 249002438
 ```
 module jkflipflop(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
