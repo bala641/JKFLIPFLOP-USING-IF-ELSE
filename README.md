@@ -38,7 +38,8 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
- Developed by:BALA B Ref Num: 249002438
+ Developed by:BALA B Ref Num: 24900698
+ 
 ```
 module jkflipflop(q, qb,j,k,clock,reset);
     input j,k,clock,reset;
